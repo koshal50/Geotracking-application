@@ -2,6 +2,8 @@
 
 A modern, mobile-first IP geolocation web application built with **Spring Boot** and vanilla **JavaScript**. Track IP addresses, resolve domains, validate IPs, and view locations on an interactive map.
 
+**IP-based location is approximate and may reflect ISP or routing location, not exact user position.”
+
 ![Java](https://img.shields.io/badge/Java-17-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## ✨ Features
